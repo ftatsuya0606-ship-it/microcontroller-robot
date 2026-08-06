@@ -136,7 +136,6 @@ RX220マイコンを搭載したコントローラと車体を無線シリアル
 ## Demo動画
 
 [![動作デモ動画](https://img.youtube.com/vi/p0Bt5zL2aak/0.jpg)](https://www.youtube.com/watch?v=p0Bt5zL2aak)
-https://youtube.com/shorts/p0Bt5zL2aak?si=jFDE0AgWikNnCW2d
 
 
 ## 開発プロセス
