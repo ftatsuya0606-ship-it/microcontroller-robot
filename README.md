@@ -133,6 +133,10 @@ RX220マイコンを搭載したコントローラと車体を無線シリアル
 - intprg.c  
   SCI5受信割り込み処理を実装
 
+## Demo動画
+
+https://youtube.com/shorts/p0Bt5zL2aak?si=jFDE0AgWikNnCW2d
+
 
 ## 開発プロセス
 
