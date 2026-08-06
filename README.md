@@ -52,7 +52,7 @@ RX220マイコンを搭載したコントローラと車体を無線シリアル
 
 ### 基板写真
 
-<img src="images/基板.jpg" width="500">
+<img src="images/board.jpg" width="500">
 
 ### コントローラ
 
